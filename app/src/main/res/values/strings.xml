@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SeekBar_0913_available</string>
+    <string name="press">按下seekBar</string>
+    <string name="normal">松开seekBar</string>
+
+    <string name="middle">中温</string>
+    <string name="high">高温</string>
+    <string name="low">低温</string>
+</resources>
